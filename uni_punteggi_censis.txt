@@ -1,0 +1,65 @@
+ID	Nome	Punteggio
+1	Ancona Politecnica delle Marche	
+2	Bari	85.2
+3	Bari Politecnico	83.6
+4	Basilicata	84.8
+5	Bologna	97.8
+6	Bolzano	104.2
+7	Bra (Pollenzo) Scienze Gastronomiche	
+8	Cagliari	84.4
+9	Calabria	89.8
+10	Camerino	95.8
+11	Casamassima LUM Jean Monnet	73.2
+12	Cassino e Lazio Meridionale	80.8
+13	Castellanza LIUC-Università Cattaneo	94.2
+14	Catania 	78.2
+15	Catanzaro	81.2
+16	Chieti e Pescara	73.2
+17	Enna  Kore	72.4
+18	Ferrara	87.2
+19	Firenze	90.4
+20	Foggia	84
+21	Genova	86.4
+22	Insubria	77.8
+23	L'Aquila	74.8
+24	Macerata	93.2
+25	Messina	75.8
+26	Milano IULM	83.8
+27	Milano Vita-Salute S. Raffaele	82.6
+28	Modena e Reggio Emilia	94.6
+29	Molise	78.8
+30	Napoli Federico II	73.6
+31	Napoli L'Orientale	71.8
+32	Napoli Parthenope	69.6
+33	Napoli Seconda Università	70.2
+34	Padova	92.6
+35	Parma	89.2
+36	Perugia	95.2
+37	Perugia Stranieri	
+38	Piemonte Orientale	84
+39	Reggio Calabria Mediterranea	73.8
+40	Roma Campus Bio-Medico	79.4
+41	Roma Foro Italico	
+42	Roma La Sapienza	84.2
+43	Roma LUMSA	78.8
+44	Roma Tor Vergata	84.6
+45	Roma Tre	81.6
+46	Roma UNINT	77.8
+47	Salento	90.6
+48	Salerno	77.4
+49	Sannio	73
+50	Sassari	93.6
+51	Siena	103.2
+52	Siena Stranieri	
+53	Teramo	85.6
+54	Torino	85.8
+55	Torino Politecnico	92.6
+56	Trento	97.8
+57	Trieste	96.8
+58	Tuscia	84.4
+59	Udine	91.6
+60	Urbino Carlo Bo	87
+61	Valle d'Aosta	86.2
+62	Venezia Ca' Foscari	84
+63	Venezia IUAV	84.8
+64	Verona	86.4
